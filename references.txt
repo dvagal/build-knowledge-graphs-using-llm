@@ -1,0 +1,2 @@
+Running GraphRAG Locally with Neo4j and Ollama (Text format)
+https://sandeep14.medium.com/running-graphrag-locally-with-neo4j-and-ollama-text-format-371bf88b14b7
